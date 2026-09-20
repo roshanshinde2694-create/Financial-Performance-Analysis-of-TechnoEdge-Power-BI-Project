@@ -1,42 +1,155 @@
-📊 Financial Performance Analysis of TechnoEdge | Power BI
-This project analyzes the financial performance of TechnoEdge using Power BI. It evaluates sales trends, profit, COGS, discounts, product and segment performance, and country-wise sales. The dashboard reveals growth opportunities, high COGS impact, and the need to optimize pricing, expand markets, and improve profitability.
+# 📊 Financial Performance Analysis of TechnoEdge | Power BI
 
-📚 Table of Contents
-Project Overview
-Project Objective
-Dataset & Methodology
-Dashboard Insights
-Conclusion
-📊 Project Overview
-This project presents an in-depth Financial Performance Analysis of TechnoEdge using Power BI. The primary goal is to assess the company’s financial health, analyze sales trends, identify operational challenges, and generate actionable insights that support effective business decision-making.
+## 📌 Project Overview
 
-The analysis investigates multiple financial indicators, including Sales, Cost of Goods Sold (COGS), Profit, Discount impact, Country-wise revenue distribution, Customer Segment performance, and Product-wise sales trends. These metrics help understand profitability, efficiency, and growth opportunities within the organization.
+This project presents an in-depth **Financial Performance Analysis of TechnoEdge** using **Power BI**.
 
-🎯 Project Objective
-TechnoEdge needs to stabilize inconsistent financial performance, explore discount strategies, diversify customer base, expand into new markets, and optimize product offerings for better revenue.
+The primary goal is to evaluate the company's financial health, analyze sales trends, identify operational challenges, and generate actionable insights to support effective business decision-making.
 
-The project aims to:
+The analysis focuses on:
 
-Evaluate overall financial performance using dynamic Power BI dashboards
-Identify factors affecting profitability and revenue fluctuations
-Understand customer and regional sales behavior
-Recommend strategic improvements for long-term growth
-🛠️ Dataset & Methodology
-The dataset consists of financial transaction data spread across four Excel files, including Finance Sales, Calendar, Transaction Details, and Dates. The data was cleaned and transformed using Power Query, and a well-structured star schema model was developed.
+* 💰 Sales Performance
+* 📈 Profit & Profit Margin
+* 💸 Cost of Goods Sold (COGS)
+* 🏷️ Discount Impact
+* 🌍 Country-wise Sales
+* 👥 Customer Segment Performance
+* 📦 Product-wise Sales Trends
 
-DAX measures were created to calculate key metrics such as Total Sales, Total COGS, Total Profit, Profit Margin, and Discount Influence.
+---
 
-📈 Dashboard Insights
-Key findings from the analysis include:
+## 🎯 Project Objective
 
-Total Sales: 49.11M
-Total COGS: 40M
-Total Profit: 8.63M
-Top Segment: Government
-Top Product: Paseo
-Top Country: Germany
-The analysis shows that although revenue is growing, profit margins remain restricted due to high COGS and excessive discount rates. Sales heavily depend on the Small Business segment, posing business risk. Low discount categories contribute most to total revenue, indicating a need to minimize high discount strategies. Market distribution shows growth opportunities in regions with lower penetration.
+TechnoEdge needs to stabilize inconsistent financial performance, explore effective discount strategies, diversify its customer base, expand into new markets, and optimize its product offerings.
 
-✅ Conclusion
-The project reveals that TechnoEdge must strengthen pricing strategies, diversify its customer base, and expand into new markets to achieve sustainable financial stability. Optimizing product and operational costs and focusing on profitable customer segments will enable long-term growth and improved competitiveness.
+### Key Objectives
 
+* Evaluate overall financial performance using interactive Power BI dashboards
+* Identify factors affecting profitability and revenue fluctuations
+* Analyze customer and regional sales behavior
+* Identify growth opportunities
+* Recommend strategic improvements for long-term growth
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **Power BI**
+* **Power Query**
+* **DAX**
+* **Microsoft Excel**
+
+---
+
+## 📂 Dataset & Methodology
+
+The dataset consists of financial transaction data distributed across **four Excel files**:
+
+1. Finance Sales
+2. Calendar
+3. Transaction Details
+4. Dates
+
+### Data Processing
+
+The data was:
+
+1. Imported into Power BI
+2. Cleaned and transformed using **Power Query**
+3. Structured using a **Star Schema**
+4. Analyzed using **DAX measures**
+5. Visualized through interactive Power BI dashboards
+
+### Key DAX Measures
+
+* Total Sales
+* Total COGS
+* Total Profit
+* Profit Margin
+* Discount Influence
+
+---
+
+## 📈 Dashboard Insights
+
+### 💰 Key Financial Metrics
+
+| Metric           |  Value |
+| ---------------- | -----: |
+| **Total Sales**  | 49.11M |
+| **Total COGS**   |    40M |
+| **Total Profit** |  8.63M |
+
+### 🏆 Top Performers
+
+| Category        | Top Performer |
+| --------------- | ------------- |
+| **Top Segment** | Government    |
+| **Top Product** | Paseo         |
+| **Top Country** | Germany       |
+
+---
+
+## 🔍 Key Findings
+
+* Revenue is growing, but **profit margins remain restricted** due to high COGS and discount rates.
+* Sales show significant dependence on the **Small Business segment**, creating potential business risk.
+* **Low-discount categories contribute most of the total revenue**, indicating that excessive discounting may not be necessary.
+* Regional analysis highlights **growth opportunities in markets with lower penetration**.
+* High operational costs have a significant impact on overall profitability.
+
+---
+
+## 💡 Business Recommendations
+
+Based on the analysis, TechnoEdge should:
+
+* 📌 Strengthen pricing strategies
+* 📌 Optimize discount strategies
+* 📌 Reduce operational and product costs
+* 📌 Diversify the customer base
+* 📌 Expand into underpenetrated markets
+* 📌 Focus on profitable customer segments
+* 📌 Optimize product offerings
+
+---
+
+## 📊 Dashboard
+
+The Power BI dashboard provides an interactive view of:
+
+* Sales trends
+* Profit and COGS
+* Discount analysis
+* Product performance
+* Customer segments
+* Country-wise sales
+* Key financial KPIs
+
+---
+
+## ✅ Conclusion
+
+The analysis indicates that TechnoEdge can improve its financial stability by **strengthening pricing strategies, optimizing costs, diversifying its customer base, and expanding into new markets**.
+
+Focusing on profitable customer segments and optimizing product and operational costs can support **long-term growth and improved competitiveness**.
+
+---
+
+## 👨‍💻 Project Skills Demonstrated
+
+* Power BI Dashboard Development
+* Data Cleaning & Transformation
+* Power Query
+* DAX
+* Data Modelling
+* Financial Analysis
+* Data Visualization
+* Business Intelligence
+* Business Insights & Recommendations
+
+---
+
+## ⭐ Project Highlights
+
+> **Power BI-based financial analysis that transforms raw transaction data into interactive dashboards and actionable business insights.**
