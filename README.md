@@ -149,7 +149,3 @@ Focusing on profitable customer segments and optimizing product and operational 
 * Business Insights & Recommendations
 
 ---
-
-## ⭐ Project Highlights
-
-> **Power BI-based financial analysis that transforms raw transaction data into interactive dashboards and actionable business insights.**
